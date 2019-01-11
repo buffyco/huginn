@@ -42,6 +42,7 @@ gem 'mqtt'                        # MQTTAgent
 gem 'slack-notifier', '~> 1.0.0'  # SlackAgent
 gem 'hypdf', '~> 1.0.10'          # PDFInfoAgent
 gem 'stripe'                      # Stripe
+gem 'stripe-cli'                  # StripeCli
 
 # Weibo Agents
 # FIXME needs to loosen omniauth dependency, add rest-client
