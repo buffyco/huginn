@@ -129,6 +129,7 @@ gem 'therubyracer', '~> 0.12.3'
 gem 'typhoeus', '~> 0.6.3'
 gem 'uglifier', '~> 2.7.2'
 gem 'bootsnap', '>= 1.1.0', require: false
+gem 'stripe', '>= 3.3.0'
 
 group :development do
   gem 'better_errors', '~> 1.1'
